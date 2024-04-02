@@ -1,0 +1,13 @@
+Nama	: Ainur rofiq
+Nim	: 23090058
+Kelas	: 2C
+
+STUDI KASUS 
+Manajement daftar tugas:
+>	Permasalahan
+Dalam kehidupan sehari-hari, seringkali kita memiliki banyak tugas yang perlu diselesaikan, 
+namun sulit untuk mengatur dan melacak semua tugas tersebut secara efisien. Hal ini dapat 
+mengakibatkan tugas-tugas terlupakan atau tidak terselesaikan tepat waktu.
+>	Solusi
+Membuat program komputer sederhana yang memungkinkan pengguna untuk membuat, 
+mengedit, dan melihat daftar tugas (to-do list) mereka dengan mudah.
